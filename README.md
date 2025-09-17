@@ -1,16 +1,28 @@
-## Eu gosto de one pice
+# 👋 Olá, Meu nome é Matheus,
 
-<!--
-**HiioCom2i/HiioCom2i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduando em TI no IMD/UFRN, com interesses em desenvolvimento de software, realidade mista e jogos digitais. Atualmente trabalho como voluntário em projetos de pesquisa e desenvolvimento no **IMD/UFRN**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎓 Graduação em andamento: BTI IMD/UFRN (8° Semestre)
+- 📚 Áreas de interesse: Desenvolvimento de Software, Estruturas de Dados, Realidade Mista, Inteligência Artificial e Jogos Digitais.
+- 💻 Experiência com: `Python`, `C/C++`, `C#`, `GDScript`, `JavaScript`, `SQL`.
+- 📈 Estudando Atualmente: Aperendizado de Máquina, Aprendizado por Reforço e IA Generativa.
+- 🎯 Objetivo: Busco me aprofundar nas áreas que possuo interesse, e conhecer mais das coisas que não tenho tanta experiência.
+
+---
+
+## 📂 Projetos em Destaque
+- 🔹 [Bateria em Realidade Mista]([link](https://github.com/HiioCom2i/BateriaVR)) – Desenvolvimento de uma Bateria em Realidade Aumentada na Unity, com o objetivo de expandir o instrumento real, e permitir aplicações na área da música e educação.
+- 🔹 [KatanaMadJackZERO]([link](https://github.com/HiioCom2i/KatanaMadJackZERO)) – Protótipo de Jogo BoomerSlasher inspirado na estética de Katana Zero e Mullet Madjack.
+
+---
+
+## 📫 Contato
+- ✉️ Email: matheus.paz.017@ufrn.edu.br
+- 🔗 LinkedIn: em construção, volte mais tarde
+
+---
+
+Eu gosto de ONE PIECE
