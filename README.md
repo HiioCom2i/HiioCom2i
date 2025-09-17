@@ -5,7 +5,7 @@ Sou graduando em TI no IMD/UFRN, com interesses em desenvolvimento de software, 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Graduação em andamento: BTI IMD/UFRN (8° Semestre)
+- 🎓 Graduação em andamento: BTI IMD/UFRN - 8° Semestre
 - 📚 Áreas de interesse: Desenvolvimento de Software, Estruturas de Dados, Realidade Mista, Inteligência Artificial e Jogos Digitais.
 - 💻 Possuo Experiência com:
 
