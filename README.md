@@ -1,4 +1,4 @@
-# 👋 Oi,
+# 👋 Olá, Meu nome é Matheus,
 
 Sou graduando em TI no IMD/UFRN, com interesses em desenvolvimento de software, realidade mista e jogos digitais. Atualmente trabalho como voluntário em projetos de pesquisa e desenvolvimento no **IMD/UFRN**.
 
