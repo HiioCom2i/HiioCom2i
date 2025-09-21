@@ -17,8 +17,8 @@ Sou graduando em TI no IMD/UFRN, com interesses em desenvolvimento de software, 
 
 ## 📂 Projetos em Destaque
 - 🔹 [Bateria em Realidade Mista](https://github.com/HiioCom2i/BateriaVR) – Desenvolvimento de uma Bateria em Realidade Aumentada na Unity, com o objetivo de expandir o instrumento real, e permitir aplicações na área da música e educação.
-- 🔹 [KatanaMadJackZERO](https://github.com/HiioCom2i/KatanaMadJackZERO) – Protótipo de Jogo BoomerSlasher inspirado na estética de Katana Zero e Mullet Madjack.
 - 🔹 [MoonVitorGame](https://github.com/HiioCom2i/MoonVitorBoss.git) – Desenvolvimento de um jogo com o objetivo de aplicar diferentes técnicas de inteligência artificial para controlar inimigos. (State Machine, Steering Behaviors e GOAP.
+- 🔹 [KatanaMadJackZERO](https://github.com/HiioCom2i/KatanaMadJackZERO) – Protótipo de Jogo BoomerSlasher inspirado na estética de Katana Zero e Mullet Madjack.
 
 ---
 
